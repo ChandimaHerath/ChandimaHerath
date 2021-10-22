@@ -71,12 +71,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandimaHerath&layout=compact) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandimaHerath)
 
-![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+![ThanksYou](https://img.shields.io/badge/Happy_Coding;-dodgerred.svg?style=for-the-badge)
 
 
-[facebook]: https://www.facebook.com/dulan.wirajith
-[medium]: https://medium.com/@dulanwirajith
-[linkedin]: https://www.linkedin.com/in/dulan-wirajith
-[hackerrank]: https://www.hackerrank.com/dulanwirajith?hr_r=1
-[portfolio]: https://www.dulanwirajith.info
-[upwork]: https://www.upwork.com/o/profiles/users/~010462f3cdf452b722/
