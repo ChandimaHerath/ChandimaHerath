@@ -62,6 +62,11 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+- [Atomic Design Pattern](https://www.linkedin.com/pulse/atomic-design-pattern-react-chandima-herath)
+
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ### My Github Stats:
