@@ -67,6 +67,11 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+- [Dealing with terabytes to exabytes in AWS cloud migrations](https://www.linkedin.com/pulse/dealing-terabytes-exabytes-aws-cloud-migrations-chandima-herath/)
+
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ### My Github Stats:
