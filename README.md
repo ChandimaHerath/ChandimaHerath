@@ -6,7 +6,7 @@
 
 ### I'm a Fullstack Developer and a Technology Enthusiast!
 
-- 🔭 I’m currently working as a Trainee Full-Stack Developer in Surge Global 
+- 🔭 I’m currently working as an Intern Software Engineer in Surge Global 
 - 🌱 I’m currently learning JavaSE, Spring ,React, Angular, Node and React Native.
 - 🥅 2022 Goals: Gaining more and more Industrial Experience.
 - ⚡ Fun fact: I'm an Ecologist who becomes a Developer when Infront of the Screen.
